@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif
+}
+
+.portrait-img {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    padding: 20px;
+    margin: none auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+    background: #eacdc2;
+    color: #1a1423;
+    border-bottom: 6px solid #372549;
+
+}
+
+.text {
+    margin-left: none;
+}
+
+.border-blue {
+    border-bottom: 1px dotted blue;
+    
+}
+
+
